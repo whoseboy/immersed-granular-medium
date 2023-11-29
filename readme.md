@@ -9,6 +9,8 @@ Welcome to the repository dedicated to the research on immersed particle two-pha
 
 The code and data in this section pertain to the study of immersed dense particle flow under vibration conditions. These resources are associated with the data publication for a paper in the *Physics of Fluids* journal. The primary contributor to this section is Dr. Wang Chi, a joint Ph.D. candidate from the Institute of Mechanics, Chinese Academy of Sciences, and China University of Mining and Technology (Beijing).
 
+Check the branch named as "Master"
+
 ### b. DDDA Analysis of Vibration-Driven Granular Phase
 
 This section includes code for generating operating conditions, processing data, and typical scenario files for the Discrete Element Method (DEM) analysis of the granular phase under vibration. Dr. Wang Chi has made significant contributions to this aspect.
