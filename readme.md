@@ -9,24 +9,33 @@ Welcome to the repository dedicated to the research on immersed particle two-pha
 
 The code and data in this section pertain to the study of immersed dense particle flow under vibration conditions. These resources are associated with the data publication for a paper in the *Physics of Fluids* journal. The primary contributor to this section is Dr. Wang Chi, a joint Ph.D. candidate from the Institute of Mechanics, Chinese Academy of Sciences, and China University of Mining and Technology (Beijing).
 
-Check the branch named as "Master"
+__Check the branch named as "Master"__
+
+***
 
 ### b. DDDA Analysis of Vibration-Driven Granular Phase
 
 This section includes code for generating operating conditions, processing data, and typical scenario files for the Discrete Element Method (DEM) analysis of the granular phase under vibration. Dr. Wang Chi has made significant contributions to this aspect.
 
+***
+
 ### c. Basilisk Code for Particle Wall Collision Lubrication Process
 
 The Basilisk code, data extension-related code, and typical scenario data for the study of particle-wall collisions in a liquid environment are housed here. The main contributor to this section is Zhang Lihua, a master's student jointly trained by the Institute of Mechanics, Chinese Academy of Sciences, and China Agricultural University.
+
+***
 
 ### d. Inertial Measurement Unit (IMU) Ball Data Acquisition and Processing
 
 Code for acquiring and processing IMU ball data for inertial measurements is available in this section. The primary contributor is Jiao Jiajun, a Ph.D. candidate jointly trained by the Institute of Mechanics, Chinese Academy of Sciences, and Beijing Institute of Technology.
 
+***
+
 ## Disclaimer
 
 This project does not provide technical support, and users are responsible for their own implementation. If you encounter any issues or have questions, feel free to contact us.
 
+***
 ## Contribution
 
 We welcome contributions to this project. If you have missing code or would like to participate, please contact us by emailing Prof. Yi An at anyi@imech.ac.cn.
@@ -43,6 +52,9 @@ We welcome contributions to this project. If you have missing code or would like
 ### a. 振动条件下浸没稠密颗粒流动研究
 
 这个部分的代码和数据涉及在振动条件下浸没稠密颗粒流动的研究。这些资源与《Physics.Fluids》期刊的论文数据发布相关。该部分的主要贡献者是王驰博士，他是来自中科院力学所和中国矿业大学（北京）联合培养的博士生。
+
+__在master分支查看详细代码__
+***
 
 ### b. 振动干颗粒相态的DDDA分析
 
